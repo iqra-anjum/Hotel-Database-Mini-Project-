@@ -1,1 +1,1 @@
-# Hotel-Database-Mini-Project-
+The objective of this project was to develop a webpage for executing queries, and to maintain the hotel records, this project was developed in Html, PHP and MySQL. The System is to manage all the Boarding and lodging activities of a hotel. It automates the task of room reservation, bill generation, checks room availability, etc. The overall Functioning of the system, schemas and its attributes.
